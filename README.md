@@ -13,13 +13,10 @@
 > In the second example, I have created a page that can change background, text, and icon, depending on the season. It can do that with your location. At the end I have added a realtime clock, to practice componentDidUpdate method.
 > 
 > ***Winter***
-
 > ![img_3.png](img_3.png)
 
 > ***Summer***
-
 > ![img_4.png](img_4.png)
 
 > ***Real time clock***
-
 > ![img_5.png](img_5.png)
