@@ -1,7 +1,7 @@
 # _react-apps
  Just some application to learn React js
 
-#Apps
+# Apps
 
 ### 1. learn-react-app
 
