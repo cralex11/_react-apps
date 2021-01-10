@@ -4,12 +4,10 @@
   align-items: center !important;
   justify-content: space-between;
   cursor: pointer;
-  transition: .3s background-color ease-out,
-  .1s transform ease-out;
+  transition: .3s background-color ease-out;
 
   &:hover {
     background-color: #f9f9f9;
-    transform: scale(1.01);
   }
 
   img {

@@ -20,3 +20,7 @@
 > 
 ### 3. Search images from unsplash
 ![img.png](img/img.png)
+>
+> ###4. Widgets
+> In this app I have learned some React Hooks. For example: useState, useEffect and UseRef. This page has some widgets: Accordion, List, Dropdown and Translate.
+> ![img.png](img/img4.png)
