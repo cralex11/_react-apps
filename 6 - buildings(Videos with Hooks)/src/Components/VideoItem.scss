@@ -1,0 +1,16 @@
+
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: .3s background-color ease-out;
+
+  &:hover {
+    background-color: #f9f9f9;
+  }
+
+  img {
+    max-width: 180px;
+  }
+}
