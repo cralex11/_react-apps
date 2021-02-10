@@ -6,6 +6,7 @@
 ### 1. learn-react-app
 
 > In the first app, I just have created a simple example with social media comments.
+>
 > ![img.png](img/img2.png)
 > 
 ### 2. seasons
